@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/WebApplication
+/obj
+/bin
+/WebApplication.csproj.user
+/Properties/PublishProfiles
