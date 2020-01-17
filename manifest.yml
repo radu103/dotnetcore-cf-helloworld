@@ -1,3 +1,4 @@
 applications:
  - name: my-dotnet-app
+   stack: windows
    memory: 128M
